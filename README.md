@@ -14,6 +14,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I love learning new things
 -->
 ### Stats
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=babalolajnr&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=babalolajnr&layout=compact&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=babalolajnr&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=babalolajnr&layout=compact&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
